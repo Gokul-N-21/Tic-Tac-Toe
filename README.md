@@ -1,11 +1,9 @@
 # Tic-Tac-Toe 👾
 
-## Project Overview
+## 🌟 Project Overview
   This project is a Python-based implementation of the classic **Tic-Tac-Toe** game. It is designed as an evolutionary coding project, transitioning from a basic local multiplayer game to a sophisticated version featuring an intelligent AI opponent. The project demonstrates how to build game logic from the ground up, handle user input validation, and implement decision-making algorithms for a computer-controlled player.
 
----
-
-## Implementation and Use Cases
+## 🚀 Implementation and Use Cases
 
 ### Implementation
 The project was developed in three distinct phases:
@@ -20,26 +18,20 @@ The project was developed in three distinct phases:
   * **Single Player (Easy)**: Practice against a randomized AI (Phase 2).
   * **Single Player (Hard)**: Challenge a strategic AI that actively prevents you from winning (Phase 3).
 
----
-
-## Libraries Used and Their Purposes
+## 📦 Libraries Used and Their Purposes
 
   * **`random` (Standard Library)**:
     * `random.randint`: Used at the start of the game to fairly decide which player (Human or Computer) takes the first turn.
     * `random.choice`: Used by the AI to select a move from a list of available board positions.
 
----
-
-## Requirements
+## 💻 Requirements
 To run this project, you need:
 
   * Python 3.x installed on your system.
   * A terminal or command prompt to execute the script.
   * No external third-party packages are required (uses Python Standard Library only).
 
----
-
-## Learning Outcomes
+## 🎓 Learning Outcomes
 By developing this project, the following concepts were mastered:
 
   * **Data Structures**: Using `lists` to represent and update a 3x3 game board.
